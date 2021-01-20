@@ -1,0 +1,27 @@
+		  precision    recall  f1-score   support
+
+           Faces       0.19      0.55      0.29        20
+       airplanes       0.11      0.75      0.20        20
+          anchor       0.46      0.30      0.36        20
+background_class       0.00      1.00      0.00         0
+          barrel       1.00      0.00      0.00        20
+          camera       1.00      0.00      0.00        20
+        car_side       0.00      0.00      0.00        20
+       dalmatian       0.00      0.00      0.00        20
+           ferry       1.00      0.00      0.00        20
+       headphone       0.19      0.35      0.25        20
+            lamp       1.00      0.00      0.00        20
+           pizza       0.50      0.05      0.09        20
+         pyramid       1.00      0.00      0.00        20
+          snoopy       0.33      0.05      0.09        20
+     soccer_ball       0.00      1.00      0.00         0
+       stop_sign       1.00      0.00      0.00        20
+      strawberry       0.12      0.05      0.07        20
+       sunflower       0.56      0.25      0.34        20
+     water_lilly       0.43      0.15      0.22        20
+   windsor_chair       1.00      0.10      0.18        20
+        yin_yang       0.67      0.10      0.17        20
+
+        accuracy                           0.14       380
+       macro avg       0.50      0.22      0.11       380
+    weighted avg       0.56      0.14      0.12       380
