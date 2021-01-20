@@ -7,7 +7,8 @@ Feature Extraction, Finding Dictionary Centers, Feature Quantization and Classif
 
 We have implemented a number of methods to achieve these goals. We, then, combined these methods to create full pipelines that predict image tags. The “Caltech20” dataset given with the assignment is used for training and testing.
 
-*Result are in the project report.
+**Result are in the project report.
+**Individual pipelines are under the "/pipelines" directory.
 
 Group Members:
 Mahmut Karaca, 
