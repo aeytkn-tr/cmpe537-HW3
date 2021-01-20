@@ -10,6 +10,8 @@ Classification
 
 We have implemented a number of methods to achieve these goals. We, then, combined these methods to create full pipelines that predict image tags. The “Caltech20” dataset given with the assignment is used for training and testing.
 
+*Result are in the project report.
+
 Group Members:
 Mahmut Karaca, 
 İpek Erdoğan, 
